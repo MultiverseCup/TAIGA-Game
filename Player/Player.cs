@@ -7,7 +7,7 @@ namespace gameProject.Player
 {
     public class Player
     {
-        public Vector2 Position { get; private set; }
+        public Vector2 Position;
         public float Speed { get; set; }
         public Sprite Sprite { get; private set; }
 
@@ -17,6 +17,16 @@ namespace gameProject.Player
             Speed = speed;
             Sprite = sprite;
             Sprite.Position = Sprite.CalculateSpritePosition(Position, Sprite);
+        }
+
+        public Rectangle GetBounds()
+        {
+            return new Rectangle(
+                (int)Position.X,
+                (int)Position.Y,
+                Sprite.Width / 2,
+                Sprite.Height
+            );
         }
 
         public void Update(GameTime gameTime)

@@ -7,9 +7,9 @@ namespace gameProject.Enemy
     public class Enemy
     {
         public Sprite Sprite { get; private set; }
-        public Vector2 Position { get; private set; }
         public int Speed { get; private set; }
         public int Health { get; private set; }
+        public Vector2 Position;
 
         private Player.Player _player;
 
@@ -21,6 +21,15 @@ namespace gameProject.Enemy
             _player = player;
         }
 
+        public Rectangle GetBounds()
+        {
+            return new Rectangle(
+                (int)Position.X,
+                (int)Position.Y,
+                Sprite.Width / 2,
+                Sprite.Height
+            );
+        }
 
         public void Update(GameTime gameTime)
         {

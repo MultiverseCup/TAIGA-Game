@@ -72,7 +72,7 @@ namespace _2semProject
 
             _player.Update(gameTime);
 
-            _enemyManager.SpawnEnemies();
+            //_enemyManager.SpawnEnemies();
             _enemyManager.Update(gameTime);
 
             _camera.Follow(_player.Position);
