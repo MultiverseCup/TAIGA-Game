@@ -244,11 +244,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Артур\\Desktop\\2semProject\\gameProject.csproj",
+      "projectUniqueName": "C:\\Users\\Артур\\Desktop\\TAIGA-Game-master\\gameProject.csproj",
       "projectName": "gameProject",
-      "projectPath": "C:\\Users\\Артур\\Desktop\\2semProject\\gameProject.csproj",
+      "projectPath": "C:\\Users\\Артур\\Desktop\\TAIGA-Game-master\\gameProject.csproj",
       "packagesPath": "C:\\Users\\Артур\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Артур\\Desktop\\2semProject\\obj\\",
+      "outputPath": "C:\\Users\\Артур\\Desktop\\TAIGA-Game-master\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
