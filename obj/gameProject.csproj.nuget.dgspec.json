@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Артур\\Desktop\\TAIGA-Game-master\\gameProject.csproj": {}
+    "C:\\Users\\Артур\\Desktop\\TAIGA-Game-master — копия (4) — копия — копия — копия\\gameProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Артур\\Desktop\\TAIGA-Game-master\\gameProject.csproj": {
+    "C:\\Users\\Артур\\Desktop\\TAIGA-Game-master — копия (4) — копия — копия — копия\\gameProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Артур\\Desktop\\TAIGA-Game-master\\gameProject.csproj",
+        "projectUniqueName": "C:\\Users\\Артур\\Desktop\\TAIGA-Game-master — копия (4) — копия — копия — копия\\gameProject.csproj",
         "projectName": "gameProject",
-        "projectPath": "C:\\Users\\Артур\\Desktop\\TAIGA-Game-master\\gameProject.csproj",
+        "projectPath": "C:\\Users\\Артур\\Desktop\\TAIGA-Game-master — копия (4) — копия — копия — копия\\gameProject.csproj",
         "packagesPath": "C:\\Users\\Артур\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Артур\\Desktop\\TAIGA-Game-master\\obj\\",
+        "outputPath": "C:\\Users\\Артур\\Desktop\\TAIGA-Game-master — копия (4) — копия — копия — копия\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,7 +44,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -75,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

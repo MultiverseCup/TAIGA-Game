@@ -54,3 +54,244 @@ C:\Users\Артур\Desktop\TAIGA-Game-master\obj\Debug\net8.0\refint\gameProjec
 C:\Users\Артур\Desktop\TAIGA-Game-master\obj\Debug\net8.0\gameProject.pdb
 C:\Users\Артур\Desktop\TAIGA-Game-master\obj\Debug\net8.0\gameProject.genruntimeconfig.cache
 C:\Users\Артур\Desktop\TAIGA-Game-master\obj\Debug\net8.0\ref\gameProject.dll
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2)\bin\Debug\net8.0\Content\weaponBounds.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2)\bin\Debug\net8.0\Content\Sprite-0002.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2)\bin\Debug\net8.0\Content\Sprite-0003.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2)\bin\Debug\net8.0\gameProject.exe
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2)\bin\Debug\net8.0\gameProject.deps.json
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2)\bin\Debug\net8.0\gameProject.runtimeconfig.json
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2)\bin\Debug\net8.0\gameProject.dll
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2)\bin\Debug\net8.0\gameProject.pdb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2)\bin\Debug\net8.0\MonoGame.Framework.dll
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2)\bin\Debug\net8.0\NVorbis.dll
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2)\bin\Debug\net8.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2)\bin\Debug\net8.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2)\bin\Debug\net8.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2)\bin\Debug\net8.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2)\bin\Debug\net8.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2)\bin\Debug\net8.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2)\bin\Debug\net8.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2)\obj\Debug\net8.0\gameProject.csproj.AssemblyReference.cache
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2)\obj\Debug\net8.0\gameProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2)\obj\Debug\net8.0\gameProject.AssemblyInfoInputs.cache
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2)\obj\Debug\net8.0\gameProject.AssemblyInfo.cs
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2)\obj\Debug\net8.0\gameProject.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2)\obj\Debug\net8.0\gameProject.sourcelink.json
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2)\obj\Debug\net8.0\gameProj.B8AAC992.Up2Date
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2)\obj\Debug\net8.0\gameProject.dll
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2)\obj\Debug\net8.0\refint\gameProject.dll
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2)\obj\Debug\net8.0\gameProject.pdb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2)\obj\Debug\net8.0\gameProject.genruntimeconfig.cache
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2)\obj\Debug\net8.0\ref\gameProject.dll
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2)\bin\Debug\net8.0\Content\bulletSprite.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2)\bin\Debug\net8.0\Content\gemTexture.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2)\bin\Debug\net8.0\Content\fastTankTexture.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2)\bin\Debug\net8.0\Content\fastTexture.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2)\bin\Debug\net8.0\Content\tankTexture.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2)\bin\Debug\net8.0\Content\weakTexture.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2)\bin\Debug\net8.0\Content\DefaultFont.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2)\bin\Debug\net8.0\Content\background-grass.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2)\bin\Debug\net8.0\Content\player.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2)\bin\Debug\net8.0\Content\whipAnim.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2) — копия\obj\Debug\net8.0\gameProject.csproj.AssemblyReference.cache
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2) — копия\obj\Debug\net8.0\gameProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2) — копия\obj\Debug\net8.0\gameProject.AssemblyInfoInputs.cache
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2) — копия\obj\Debug\net8.0\gameProject.AssemblyInfo.cs
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2) — копия\obj\Debug\net8.0\gameProject.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2) — копия\obj\Debug\net8.0\gameProject.sourcelink.json
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2) — копия\obj\Debug\net8.0\gameProject.dll
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2) — копия\obj\Debug\net8.0\refint\gameProject.dll
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2) — копия\obj\Debug\net8.0\gameProject.pdb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2) — копия\bin\Debug\net8.0\Content\background-grass.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2) — копия\bin\Debug\net8.0\Content\bulletSprite.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2) — копия\bin\Debug\net8.0\Content\DefaultFont.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2) — копия\bin\Debug\net8.0\Content\fastTankTexture.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2) — копия\bin\Debug\net8.0\Content\fastTexture.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2) — копия\bin\Debug\net8.0\Content\gemTexture.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2) — копия\bin\Debug\net8.0\Content\player.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2) — копия\bin\Debug\net8.0\Content\Sprite-0002.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2) — копия\bin\Debug\net8.0\Content\Sprite-0003.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2) — копия\bin\Debug\net8.0\Content\tankTexture.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2) — копия\bin\Debug\net8.0\Content\weakTexture.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2) — копия\bin\Debug\net8.0\Content\weaponBounds.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2) — копия\bin\Debug\net8.0\Content\whipAnim.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2) — копия\bin\Debug\net8.0\gameProject.exe
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2) — копия\bin\Debug\net8.0\gameProject.deps.json
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2) — копия\bin\Debug\net8.0\gameProject.runtimeconfig.json
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2) — копия\bin\Debug\net8.0\gameProject.dll
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2) — копия\bin\Debug\net8.0\gameProject.pdb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2) — копия\bin\Debug\net8.0\MonoGame.Framework.dll
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2) — копия\bin\Debug\net8.0\NVorbis.dll
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2) — копия\bin\Debug\net8.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2) — копия\bin\Debug\net8.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2) — копия\bin\Debug\net8.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2) — копия\bin\Debug\net8.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2) — копия\bin\Debug\net8.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2) — копия\bin\Debug\net8.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2) — копия\bin\Debug\net8.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2) — копия\obj\Debug\net8.0\gameProj.B8AAC992.Up2Date
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2) — копия\obj\Debug\net8.0\gameProject.genruntimeconfig.cache
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2) — копия\obj\Debug\net8.0\ref\gameProject.dll
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2) — копия\bin\Debug\net8.0\Content\Audio\Ivan's Childhood.ogg
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2) — копия\bin\Debug\net8.0\Content\Audio\Ivan's Childhood.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2) — копия\bin\Debug\net8.0\Content\Audio\Gameplay\Ivan's Childhood.ogg
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2) — копия\bin\Debug\net8.0\Content\Audio\Gameplay\Ivan's Childhood.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2) — копия\bin\Debug\net8.0\Content\Audio\Gameplay\Motherland.ogg
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2) — копия\bin\Debug\net8.0\Content\Audio\Gameplay\Motherland.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2) — копия\bin\Debug\net8.0\Content\Audio\Menu\Before_Our_eyes.ogg
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2) — копия\bin\Debug\net8.0\Content\Audio\Menu\Before_Our_eyes.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2) — копия\bin\Debug\net8.0\Content\Audio\Menu\Mousetrap.ogg
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2) — копия\bin\Debug\net8.0\Content\Audio\Menu\Mousetrap.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (2) — копия\bin\Debug\net8.0\Content\TAIGA_Logo.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\Content\Audio\Ivan's Childhood.ogg
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\Content\Audio\Ivan's Childhood.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\Content\background-grass.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\Content\bulletSprite.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\Content\DefaultFont.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\Content\fastTankTexture.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\Content\fastTexture.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\Content\gemTexture.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\Content\player.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\Content\Sprite-0002.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\Content\Sprite-0003.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\Content\TAIGA_Logo.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\Content\tankTexture.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\Content\weakTexture.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\Content\weaponBounds.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\Content\whipAnim.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\gameProject.exe
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\gameProject.deps.json
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\gameProject.runtimeconfig.json
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\gameProject.dll
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\gameProject.pdb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\MonoGame.Framework.dll
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\NVorbis.dll
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\obj\Debug\net8.0\gameProject.csproj.AssemblyReference.cache
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\obj\Debug\net8.0\gameProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\obj\Debug\net8.0\gameProject.AssemblyInfoInputs.cache
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\obj\Debug\net8.0\gameProject.AssemblyInfo.cs
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\obj\Debug\net8.0\gameProject.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\obj\Debug\net8.0\gameProject.sourcelink.json
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\obj\Debug\net8.0\gameProj.B8AAC992.Up2Date
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\obj\Debug\net8.0\gameProject.dll
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\obj\Debug\net8.0\refint\gameProject.dll
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\obj\Debug\net8.0\gameProject.pdb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\obj\Debug\net8.0\gameProject.genruntimeconfig.cache
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\obj\Debug\net8.0\ref\gameProject.dll
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\Content\floorTexture.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\Content\wallTexture.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\Content\hit.ogg
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\Content\hit.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\Content\agentEnemy.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\Content\wolfSpritelist.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\Content\dragonflySpritelist.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\Content\agentEnemy (1).xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\Content\fastTank.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\Content\whiteSoldier.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\Content\plagueDoctorSprite.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\Content\guitarPlayer.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\Content\pie2.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\Content\SoldierRun.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\Content\beam.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\Content\Music\MainMenuTheme.ogg
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\Content\Music\MainMenuTheme.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\Content\Music\GameOverTheme.ogg
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\Content\Music\GameOverTheme.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\Content\Music\GameplayTheme.ogg
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\Content\Music\GameplayTheme.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\Content\VictoryTheme.ogg
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\Content\VictoryTheme.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\Content\Music\EndTheme.ogg
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\Content\Music\EndTheme.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\Content\Music\VictoryTheme.ogg
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\Content\Music\VictoryTheme.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\Content\noteTexture.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\Content\arrow.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\Content\coffin.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\Content\coffinOpen.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\Content\guitar.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\Content\Music\MazeTheme.ogg
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия\bin\Debug\net8.0\Content\Music\MazeTheme.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\Content\Audio\Ivan's Childhood.ogg
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\Content\Audio\Ivan's Childhood.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\Content\hit.ogg
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\Content\Music\EndTheme.ogg
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\Content\Music\EndTheme.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\Content\VictoryTheme.ogg
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\Content\VictoryTheme.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\Content\agentEnemy (1).xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\Content\agentEnemy.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\Content\arrow.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\Content\background-grass.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\Content\beam.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\Content\bulletSprite.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\Content\coffin.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\Content\coffinOpen.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\Content\DefaultFont.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\Content\dragonflySpritelist.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\Content\fastTank.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\Content\fastTankTexture.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\Content\fastTexture.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\Content\floorTexture.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\Content\gemTexture.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\Content\guitar.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\Content\guitarPlayer.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\Content\hit.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\Content\Music\GameOverTheme.ogg
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\Content\Music\GameOverTheme.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\Content\Music\GameplayTheme.ogg
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\Content\Music\GameplayTheme.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\Content\Music\MainMenuTheme.ogg
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\Content\Music\MainMenuTheme.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\Content\Music\MazeTheme.ogg
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\Content\Music\MazeTheme.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\Content\Music\VictoryTheme.ogg
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\Content\Music\VictoryTheme.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\Content\noteTexture.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\Content\pie2.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\Content\plagueDoctorSprite.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\Content\player.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\Content\SoldierRun.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\Content\Sprite-0002.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\Content\Sprite-0003.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\Content\TAIGA_Logo.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\Content\tankTexture.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\Content\wallTexture.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\Content\weakTexture.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\Content\weaponBounds.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\Content\whipAnim.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\Content\whiteSoldier.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\Content\wolfSpritelist.xnb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\gameProject.exe
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\gameProject.deps.json
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\gameProject.runtimeconfig.json
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\gameProject.dll
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\gameProject.pdb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\MonoGame.Framework.dll
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\NVorbis.dll
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\bin\Debug\net8.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\obj\Debug\net8.0\gameProject.csproj.AssemblyReference.cache
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\obj\Debug\net8.0\gameProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\obj\Debug\net8.0\gameProject.AssemblyInfoInputs.cache
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\obj\Debug\net8.0\gameProject.AssemblyInfo.cs
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\obj\Debug\net8.0\gameProject.csproj.CoreCompileInputs.cache
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\obj\Debug\net8.0\gameProject.sourcelink.json
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\obj\Debug\net8.0\gameProj.B8AAC992.Up2Date
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\obj\Debug\net8.0\gameProject.dll
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\obj\Debug\net8.0\refint\gameProject.dll
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\obj\Debug\net8.0\gameProject.pdb
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\obj\Debug\net8.0\gameProject.genruntimeconfig.cache
+C:\Users\Артур\Desktop\TAIGA-Game-master — копия (4) — копия — копия — копия\obj\Debug\net8.0\ref\gameProject.dll

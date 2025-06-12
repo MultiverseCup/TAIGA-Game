@@ -1,2 +1,2 @@
-﻿using var game = new _2semProject.Game1();
+﻿using var game = new gameProject.Core.Game1();
 game.Run();
